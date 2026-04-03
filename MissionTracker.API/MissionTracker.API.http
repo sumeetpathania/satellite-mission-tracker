@@ -1,0 +1,6 @@
+@MissionTracker.API_HostAddress = http://localhost:5084
+
+GET {{MissionTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
